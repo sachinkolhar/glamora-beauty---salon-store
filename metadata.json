@@ -1,0 +1,8 @@
+
+{
+  "name": "Glamora Beauty & Salon Store",
+  "description": "A premium, professional e-commerce and CMS platform for beauty products and salon supplies, featuring a full admin dashboard, product management, and content editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
